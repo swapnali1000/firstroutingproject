@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(155, 95, 95);
+    padding: 10px;
+}
+
+.nav-brand{
+display: inline-block;
+color:black;
+margin-right: 100px;
+}
+.nav-menu{
+    
+    padding: 20px;
+    
+    
+}
